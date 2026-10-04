@@ -1,0 +1,22 @@
+[theme]
+base = "dark"
+primaryColor = "#b8f2d0"
+backgroundColor = "#101513"
+secondaryBackgroundColor = "#161d1a"
+textColor = "#f5f7f2"
+borderColor = "#34443b"
+font = "'DM Sans':https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseRadius = "small"
+buttonRadius = "small"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+
+[theme.sidebar]
+backgroundColor = "#161d1a"
+secondaryBackgroundColor = "#1d2822"
+textColor = "#f5f7f2"
+borderColor = "#34443b"
+
